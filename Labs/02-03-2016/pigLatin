@@ -1,0 +1,11 @@
+input java.util.Scanner;
+
+public class pigLatin
+   {
+     public static void main(String [] args);
+         {
+     Scanner scan = new Scanner(System.in);
+     String first;
+     String last;
+     toLowercase.first; toLowerCase.last
+     
